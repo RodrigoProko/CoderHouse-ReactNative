@@ -16,7 +16,7 @@ Esta es una aplicación de lista optimizada desarrollada con React Native.
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
-
+https://github.com/RodrigoProko/CoderHouse-ReactNative.git
 
 2. Ve al directorio del proyecto.
 cd ListaOptimizada
