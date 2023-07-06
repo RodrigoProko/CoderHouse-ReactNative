@@ -1,0 +1,33 @@
+# Ignorar los archivos y directorios generados por React Native
+node_modules/
+*.log
+*.jks
+/debug
+/release
+
+# Ignorar los archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar el archivo de configuración de IDE específico
+.idea/
+.vscode/
+
+# Ignorar el archivo de dependencias de Yarn
+.yarn/
+
+# Ignorar el archivo de dependencias de Gradle
+.gradle/
+
+# Ignorar los archivos de construcción de Android
+android/app/build/
+android/gradle/
+android/local.properties
+
+# Ignorar los archivos de construcción de iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+
+# Ignorar el archivo de dependencias de CocoaPods
+Pods/
